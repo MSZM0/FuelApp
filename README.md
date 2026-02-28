@@ -1,6 +1,7 @@
 # FuelApp
 
 Android application for quickly calculating car trip costs and splitting expenses among passengers.
+<p align="center"><img width="422" height="955" alt="Screenshot 2026-02-28 014252" src="https://github.com/user-attachments/assets/448176db-63e1-40ab-bd29-329391a54f4e" /></p>
 
 ## Features
 - **Automatic price fetching:** Fetches current fuel prices (PB95, PB98, Diesel, LPG) from a mock API endpoint.
